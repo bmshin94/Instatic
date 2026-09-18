@@ -1,3 +1,24 @@
+# Instatic (CoreBunch/Instatic)
+
+## 프로젝트 개요
+비싼 웹플로우나 프레이머 대신 내 손으로 직접 호스팅하며 자유롭게 웹사이트를 시각적으로 디자인하는 "오픈소스 비주얼 웹사이트 빌더"
+코딩을 전혀 몰라도 드래그 앤 드롭으로 트렌디한 랜딩 페이지와 웹사이트를 마법처럼 제작
+월 구독료 부담 없이 나만의 멋진 브랜드 웹페이지를 자유롭고 독립적으로 소유하고 싶은 창업가의 필수품
+
+## 핵심 특징 & 추천 분야
+- 오픈소스웹플로우대체
+- 노코드웹사이트빌더
+- 드래그앤드롭제작
+- 월구독료부담제로
+- 자유로운랜딩페이지
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # Instatic
 
 This file is the **agent rule book**. Read it before changing code. Detailed explanations live in `docs/` — start at [`docs/README.md`](docs/README.md) for orientation and follow the links from there.
